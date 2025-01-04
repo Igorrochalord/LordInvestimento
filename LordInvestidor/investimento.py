@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 from apscheduler.schedulers.background import BackgroundScheduler
 
-TOKEN = "7217509449:AAEMm44cURd-m-EfRuSabxa0qUjE-_2BEic"
+TOKEN = ""
 symbols_file = "/home/igor-rocha/Projetos/LordInvestidor/symbols.json"
 
 acoes_principais = {
